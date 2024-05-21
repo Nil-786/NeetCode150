@@ -1,3 +1,4 @@
+package Solutions;
 // https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 public class TwoSum2 {
     public static void main(String args[]){

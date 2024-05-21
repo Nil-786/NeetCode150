@@ -1,3 +1,4 @@
+package Solutions;
 //https://leetcode.com/problems/container-with-most-water/submissions/1263032962/
 public class ContainerWithMostWater {
     public static void main(String[] args) {
